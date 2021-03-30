@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SSketcher
+- 👋 Hi, I’m @SSketcher also known as Jakub Wojciechowski
 - 👀 I’m interested in Machine Learning, Numerical Computation and Embede programing.
 - 🌱 I’m currently learning PyTorch and OpenCV.
 - 💞️ I’m looking to collaborate on any intersting ML projeckt.
